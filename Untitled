@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Paws on the Go</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Paws on the Go</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section class="intro">
+      <h2>Your Local Dog Walking Experts</h2>
+      <p>Reliable, friendly, and professional dog walkers serving your neighborhood.</p>
+      <a href="contact.html" class="button">Book a Walk</a>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Paws on the Go</p>
+  </footer>
+</body>
+</html>
